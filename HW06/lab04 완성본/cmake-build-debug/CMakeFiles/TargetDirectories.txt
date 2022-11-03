@@ -1,0 +1,3 @@
+/Users/minjunjung/Desktop/lab04 완성본/cmake-build-debug/CMakeFiles/lab04_.dir
+/Users/minjunjung/Desktop/lab04 완성본/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/minjunjung/Desktop/lab04 완성본/cmake-build-debug/CMakeFiles/rebuild_cache.dir
