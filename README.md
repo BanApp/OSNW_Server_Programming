@@ -1,5 +1,3 @@
-# OSNW-Server-Programming-
+# OSNW_Server_Programming
 
-## OSNW 소켓 프로그래밍 과제 소스코드를 저장하는 Repository
-
-C언어 TCP/IP 프로그래밍
+## C언어 소켓프로그래밍(TCP/IP)
